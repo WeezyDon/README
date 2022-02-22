@@ -8,7 +8,7 @@ Beginner Software Dev / Cyber Sec
 3
 - 🌱 I’m currently learning JavaScript & CSS
 4
-- 💞️ I’m looking to collaborate on everything 👌🏽
+- 💻 I’m looking to collaborate on everything 👌🏽
 5
 - 📫 How to reach me | Twitter @WeezyCode | Instagram @weezydonda | 
-6
+
